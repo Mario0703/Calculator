@@ -1,0 +1,30 @@
+.calculator{
+    border: 1px solid red;
+    margin: 0 auto;
+    margin-top: 300px;
+    width: 250px;
+}
+
+.btn{
+    width: 50px;
+    height: 50px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+
+.number-div{
+    width: 240px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 250px;
+    margin-left: 4px;
+}
+
+
+.operator-div{
+    margin-left:  auto;
+    width: 60px;
+    margin-top: -277px;
+
+}
+
